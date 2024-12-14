@@ -55,13 +55,13 @@ Follow these steps to get the project running on your local machine:
 ## 🎨 Screenshots
 
 ### 1. Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+![image](https://github.com/user-attachments/assets/33dc91dc-e037-4754-9322-c4cdfc4f78ba)
 
 ### 2. Quiz Page
-![Quiz Page](https://via.placeholder.com/800x400?text=Quiz+Page+Screenshot)
+![image](https://github.com/user-attachments/assets/228d1d85-68ce-4a1d-a6d9-d36ec3ae47e5)
 
 ### 3. Results Page
-![Results Page](https://via.placeholder.com/800x400?text=Results+Page+Screenshot)
+![image](https://github.com/user-attachments/assets/a4d1ab9a-d667-4479-8df0-4ca5a1cd0bd1)
 
 ---
 
